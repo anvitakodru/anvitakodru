@@ -11,10 +11,10 @@
 - 😄 I love spicy ramen, white lilies and metaphors!
 - ⚡ Fun fact: ... -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anvitakodru&repo=github-readme-stats" />
+<a href="https://github.com/anvitakodru/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anvitakodru&repo=convoychat" />
+<a href="https://github.com/anvitakodru/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
