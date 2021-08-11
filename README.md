@@ -1,4 +1,4 @@
---## Hi! I'm Anvita.
+## Hi! I'm Anvita.
 
 ### An aspiring software engineer, a hobbyist artist and a curious being.
 
